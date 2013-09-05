@@ -1,0 +1,4 @@
+name: Demo Hotel Antares
+markdown: redcarpet
+pygments: true
+baseurl: /ha2

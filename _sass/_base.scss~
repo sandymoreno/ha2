@@ -1,0 +1,9 @@
+
+$primary-color: #004D97;
+$ctcyellow-color: #fccb04;
+
+$header-font-family: "Lobster", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-weight: 400;
+$header-font-color: #777;
+
+
